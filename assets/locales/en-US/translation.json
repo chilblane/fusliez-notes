@@ -1,7 +1,7 @@
 {
   "main": {
     "overall": "Overall",
-    "innocent": "Innocent",
+    "innocent": "Crewmate",
     "impostor": "Impostor",
     "w": "W",
     "l": "L",
@@ -18,14 +18,14 @@
   "controls": {
     "wins": "Wins",
     "losses": "Losses",
-    "innocent": "Innocent",
+    "innocent": "Crewmate",
     "impostor": "Impostor",
     "resetScores": "Reset Scores",
     "resetRound": "Reset Round",
     "resetAll": "Reset All",
-    "notes": "Notes",
-    "resetNotes": "Reset Notes",
-    "settings": "Settings"
+    "notes": "Notepad",
+    "resetNotes": "Reset Notepad",
+    "settings": "Open Settings"
   },
   "maps": {
     "vents": "Vents",
